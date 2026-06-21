@@ -1,0 +1,6 @@
+{
+  "name": "FUEL_TRACK",
+  "description": "A High-Impact Brutalist Calorie and Fitness Tracker utilizing Gemini AI for strategic nutrition insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
